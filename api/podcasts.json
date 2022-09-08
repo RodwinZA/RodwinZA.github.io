@@ -1,0 +1,21 @@
+[
+	{
+		"status": "ALL",
+		"podcasts": [
+			{
+				"id": 1,
+				"name": "Woman Evolve",
+				"host": "Sarah Jakes Roberts",
+				"length": "6h13m",
+				"image": "womanevolved.jpg"
+			},
+			{
+				"id": 2,
+				"name": "The Conscious Parent",
+				"host": "Shefali Tsabary",
+				"length": "9h15m",
+				"image": "consciousparent.jpeg"
+			}
+		]
+	}
+]
